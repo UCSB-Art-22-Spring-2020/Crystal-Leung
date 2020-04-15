@@ -1,3 +1,7 @@
+//Crystal Leung
+//Art 22
+//Coding Activity week 3 
+
 float xPos, yPos; //position variables for geometry 
 float xVel, yVel; //velocity variables for geometry
 float xDirection, yDirection; //direction vaariable for geometry 
